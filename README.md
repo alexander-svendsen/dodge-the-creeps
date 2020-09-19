@@ -6,4 +6,4 @@ Tutorial followed from godot: https://docs.godotengine.org/en/stable/getting_sta
 Assets taken from the tutorial
 
 Build game can be found here:
-https://alexander-svendsen.github.io/dodge-the-creeps/
+https://alexander-svendsen.github.io/dodge-the-creeps/creeps
